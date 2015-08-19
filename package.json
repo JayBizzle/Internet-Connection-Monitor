@@ -1,0 +1,14 @@
+{
+  "name": "Internet-Connection-Monitor",
+  "version": "0.1.0",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.3"
+  },
+  "dependencies": {
+    "ping": "^0.1.10"
+  }
+}
